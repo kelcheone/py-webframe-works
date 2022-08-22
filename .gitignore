@@ -1,0 +1,6 @@
+# all env and dbs
+./fastapi/venv
+./flask/venv
+
+./fastapi/db.sqlite
+./flask/db.sqlite
